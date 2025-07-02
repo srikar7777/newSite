@@ -6,7 +6,7 @@ const events = [
         date: "November 15, 2025",
         location: "University Stadium",
         description: "Join us for our biggest sporting event of the year with competitions across 10 sports.",
-        image: "newSiteImg/img1.jpg"
+        image: "img1.jpg"
     },
     {
         id: 2,
@@ -14,7 +14,7 @@ const events = [
         date: "December 5, 2025",
         location: "Campus Lawn",
         description: "Network with fellow alumni and current students over food and drinks.",
-        image: "newSiteImg/img2.png"
+        image: "img2.png"
     },
     {
         id: 3,
@@ -22,7 +22,7 @@ const events = [
         date: "January 20, 2025",
         location: "Sports Complex",
         description: "Intra-university basketball competition with prizes for winning teams.",
-        image: "newSiteImg/img3.jpg"
+        image: "img3.jpg"
     }
 ];
 
